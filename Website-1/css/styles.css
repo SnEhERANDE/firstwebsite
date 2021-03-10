@@ -1,0 +1,17 @@
+body {
+	font-size: 16px;
+	color: #fff;
+	background-color:;
+	font-family: Oxygen;
+}
+#navbar-nav {
+	padding: 0px;
+  	text-align: center;
+  	background: white;
+  	color: white;	
+}
+h1 {
+	font-family: Lora;
+	text-transform: uppercase;
+	font-size: 2em;
+}
